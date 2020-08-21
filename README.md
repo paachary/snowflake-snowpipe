@@ -3,7 +3,7 @@
 This repository demonstrates a simple script to invoke snowpipe rest api using python.
 
 Pre-requisites:
-	Install python connector by navigating to the Help | Download | Connector for Python meny from Snowflake GUI.
+	Install python connector by navigating to the Help | Download | Connector for Python menu from Snowflake GUI.
 	Install python library for snowflake snowpipe.
 
 export or set the following variables before executing the script:
