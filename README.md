@@ -8,11 +8,12 @@ Pre-requisites:
 
 export or set the following variables before executing the script:
 
-export WAREHOUSE=<>
-export USERNAME=<>
-export ACCOUNT=<>
-export REGION=<>
-export DATABASE=<>
-export SCHEMA=<>
-export PIPE=<>
+
+	export WAREHOUSE=<>
+	export USERNAME=<>
+	export ACCOUNT=<>
+	export REGION=<>
+	export DATABASE=<>
+	export SCHEMA=<>
+	export PIPE=<>
 
